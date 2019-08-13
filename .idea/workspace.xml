@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82212b48-f16c-4e81-be80-9b7f44f57c12" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1PMVvqhVOik0uqXIv8EGIq8d3fi" />
+  <component name="PropertiesComponent">
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/Programming Reactive Systems/02 Getting Started/Example Assignment/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Projects/MTS/git_repos/genplan" value="PREVIEW" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming Reactive Systems/04 Asynchronous Programming/03 Programming with Futures/async" value="PREVIEW" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming Reactive Systems/05 The Actor Model/06 Binary Trees/actorbintree" value="PREVIEW" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming Reactive Systems/06 Handling Failure and State/04 Replicated Key-Value Store/kvstore" value="PREVIEW" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming Reactive Systems/08 Typed Actors/07 Transactor/protocols" value="PREVIEW" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming Reactive Systems/09 Stream Processing/05 Streaming assignment/streaming" value="PREVIEW" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming Reactive Systems/10 Advanced Stream Processing/05 Followers/followers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../MTS/git_repos/genplan" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../MTS/git_repos/genplan-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82212b48-f16c-4e81-be80-9b7f44f57c12" name="Default Changelist" comment="" />
+      <created>1565684185316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565684185316</updated>
+    </task>
+    <servers />
+  </component>
+</project>
